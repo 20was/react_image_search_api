@@ -4,7 +4,7 @@
 
 - React
 - Semantic UI
-- Unsplash API(Replace your-client-id-goes-here at (api/unsplash.js) with your own Client ID to run app)
+- Unsplash API(Replace `your-client-id-goes-here` at `(api/unsplash.js)` with your own Client ID to run app)
 
 ## snapshot
 
